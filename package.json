@@ -20,7 +20,7 @@
   "homepage": "https://github.com/betoxd40/node-restify-mongodb-jwt#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.5.12",
     "mongoose-timestamp": "^0.6.0",
     "restify": "^8.3.2",
